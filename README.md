@@ -21,7 +21,7 @@ I am a Full Stack Developer 💻
 
 
 # Majesty-12 GitHub Stats
-![Metrics](https://metrics.lecoq.io/Majesty-12?template=terminal&introduction=1&introduction.title=true&config.timezone=Asia%2FCalcutta)
+![Metrics](https://camo.githubusercontent.com/9f5d447a47b3c55b72bb2353b0a50bc29eadc52c5d71a5a1545f44264be12c23/68747470733a2f2f6d6574726963732e6c65636f712e696f2f4d616a657374792d31323f74656d706c6174653d7465726d696e616c26696e74726f64756374696f6e3d3126696e74726f64756374696f6e2e7469746c653d7472756526636f6e6669672e74696d657a6f6e653d4173696125324643616c6375747461)
 
 ![Apoorve's GitHub stats](https://github-readme-stats.vercel.app/api?username=Majesty-12&theme=light&show_icons=true)
 
